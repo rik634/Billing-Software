@@ -1,4 +1,5 @@
 package com.project.billingSoftware.io;
 
-public class PaymentMethod {
+public enum PaymentMethod {
+    CASH, UPI
 }
